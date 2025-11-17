@@ -1,0 +1,4 @@
+node_modules/
+config/credenciales.json
+package-lock.json
+.env
